@@ -1,0 +1,23 @@
+{
+  "name": "yandjin/custom-validation",
+  "type": "library",
+  "keywords": [
+    "validation",
+    "laravel"
+  ],
+  "description": "small and simple validation package inspired by laravel validation, no dependencies",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "YanDjin",
+      "email": "46947921+YanDjin@users.noreply.github.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "YanDjin\\Validation\\": "src"
+    }
+  }
+}
